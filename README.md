@@ -1,29 +1,20 @@
 ---
 layout: home
-title: 张三 博士
+title: 陈修伟 博士
 ---
 
 ## 📚 教育背景
-**清华大学** | 计算机科学与技术博士  
-2020-2024 | 导师：李四教授  
-研究方向：人工智能安全
+**四川大学** | 人工智能博士  
+2023-至今 | 导师：罗懋康教授  
+研究方向：信息融合、特征选择、异常检测、模式识别
 
 ## 🏆 学术成果
 ### 代表性论文
-- **Zhang, S.**, et al. "Adversarial Defense in NLP Systems" (ACL 2023) [[PDF]](link) [[Code]](link)
+- **X. Chen, L. Lai and M. Luo. "A Novel Fusion and Feature Selection Framework for Multisource Time-Series Data Based on Information Entropy", IEEE Transactions on Neural Networks and Learning Systems,2025.[[PDF]](link)
 - **Zhang, S.**, et al. "Robust Federated Learning Framework" (NeurIPS 2022) [[Project]](link)
 
-### 科研项目
-- **国家重点研发计划** - 项目骨干  
-  2022-2024 | 开发抗攻击联邦学习系统
+## 💻 奖项
+- **2024年四川大学博士创新奖学金
 
-## 💻 技术栈
-```json
-{
-  "编程语言": ["Python", "C++", "LaTeX"],
-  "框架工具": ["PyTorch", "HuggingFace", "Docker"],
-  "学术技能": ["实验设计", "论文评审", "学术演讲"]
-}
-```
 
-[📥 下载完整简历 PDF](cv.pdf) | [📬 联系我](mailto:your.email@tsinghua.edu.cn)
+[📬 联系我](mailto:xiuweichen1998@163.com)
