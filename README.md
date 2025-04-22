@@ -1,5 +1,4 @@
 ---
-layout: home
 title: 陈修伟 博士
 ---
 
