@@ -10,13 +10,13 @@ Name: 陈修伟
 
 ## 🏆 学术成果
 ### 代表性论文
-- **X. Chen, L. Lai and M. Luo. A Novel Fusion and Feature Selection Framework for Multisource Time-Series Data Based on Information Entropy, IEEE Transactions on Neural Networks and Learning Systems,2025.[[PDF]](https://github.com/lifefellowchen/XiuweiChen.github.io/raw/main/A_Novel_Fusion_and_Feature_Selection_Framework_for_Multisource_Time-Series_Data_Based_on_Information_Entropy.pdf)
-- **X. Chen, L. Lai and M. Luo. An unsupervised feature extraction and fusion framework for multi-source data based on copula theory, International journal of approximate reasoning,2025.[[PDF]](https://github.com/lifefellowchen/XiuweiChen.github.io/raw/main/An%20unsupervised%20feature%20extraction%20and%20fusion%20framework%20for%20multi-source%20data%20based%20on%20copula%20theory.pdf)
-- **X. Chen and M. Luo. Incremental information fusion in the presence of object variations for incomplete interval-valued data based on information entropy, Information Sciences, 2024.[[PDF]](https://github.com/lifefellowchen/XiuweiChen.github.io/raw/main/Incremental%20information%20fusion%20in%20the%20presence%20of%20object%20variations%20for%20incomplete%20interval-valued%20data%20based%20on%20information%20entropy.pdf)
-- **X. Chen and W. Xu. Double-quantitative multigranulation rough fuzzy set based on logical operations in multi-source decision systems, Int. J. Mach. Learn. & Cyber. 13, 1021–1048, 2022.[[PDF]](https://github.com/lifefellowchen/XiuweiChen.github.io/blob/main/Double%E2%80%91quantitative%20multigranulation%20rough%20fuzzy%20set.pdf)
+- X. Chen, L. Lai and M. Luo. A Novel Fusion and Feature Selection Framework for Multisource Time-Series Data Based on Information Entropy, IEEE Transactions on Neural Networks and Learning Systems,2025.[[PDF]](https://github.com/lifefellowchen/XiuweiChen.github.io/raw/main/A_Novel_Fusion_and_Feature_Selection_Framework_for_Multisource_Time-Series_Data_Based_on_Information_Entropy.pdf)
+- X. Chen, L. Lai and M. Luo. An unsupervised feature extraction and fusion framework for multi-source data based on copula theory, International journal of approximate reasoning,2025.[[PDF]](https://github.com/lifefellowchen/XiuweiChen.github.io/raw/main/An%20unsupervised%20feature%20extraction%20and%20fusion%20framework%20for%20multi-source%20data%20based%20on%20copula%20theory.pdf)
+- X. Chen and M. Luo. Incremental information fusion in the presence of object variations for incomplete interval-valued data based on information entropy, Information Sciences, 2024.[[PDF]](https://github.com/lifefellowchen/XiuweiChen.github.io/raw/main/Incremental%20information%20fusion%20in%20the%20presence%20of%20object%20variations%20for%20incomplete%20interval-valued%20data%20based%20on%20information%20entropy.pdf)
+- X. Chen and W. Xu. Double-quantitative multigranulation rough fuzzy set based on logical operations in multi-source decision systems, Int. J. Mach. Learn. & Cyber. 13, 1021–1048, 2022.[[PDF]](https://github.com/lifefellowchen/XiuweiChen.github.io/blob/main/Double%E2%80%91quantitative%20multigranulation%20rough%20fuzzy%20set.pdf)
 
 ## 💻 奖项
-- **2024年四川大学博士创新奖学金
+- 2024年四川大学博士创新奖学金
 
 
-[📬 联系我](mailto:xiuweichen1998@163.com)
+[📬 邮箱：xiuweichen1998@163.com]
