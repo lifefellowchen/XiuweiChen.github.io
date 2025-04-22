@@ -10,7 +10,7 @@ Name: 陈修伟
 
 ## 🏆 学术成果
 ### 代表性论文
-- **X. Chen, L. Lai and M. Luo. A Novel Fusion and Feature Selection Framework for Multisource Time-Series Data Based on Information Entropy, IEEE Transactions on Neural Networks and Learning Systems,2025.[[PDF]](link)
+- **X. Chen, L. Lai and M. Luo. A Novel Fusion and Feature Selection Framework for Multisource Time-Series Data Based on Information Entropy, IEEE Transactions on Neural Networks and Learning Systems,2025.[[PDF]]([link](https://github.com/lifefellowchen/XiuweiChen.github.io/blob/main/A_Novel_Fusion_and_Feature_Selection_Framework_for_Multisource_Time-Series_Data_Based_on_Information_Entropy.pdf))
 - **X. Chen, L. Lai and M. Luo. An unsupervised feature extraction and fusion framework for multi-source data based on copula theory, International journal of approximate reasoning,2025.[[PDF]](link)
 - **X. Chen and M. Luo. Incremental information fusion in the presence of object variations for incomplete interval-valued data based on information entropy, Information Sciences, 2024.[[PDF]](link)
 - **X. Chen and W. Xu. Double-quantitative multigranulation rough fuzzy set based on logical operations in multi-source decision systems, Int. J. Mach. Learn. & Cyber. 13, 1021–1048, 2022.[[PDF]](link)
