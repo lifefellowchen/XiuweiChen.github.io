@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f14deffb-2592-47cd-823c-95d27d725dc6)---
+---
 陈修伟<br>
 四川大学人工智能博士<br>
 研究方向：信息融合、特征选择、异常检测、模式识别、时序分类
